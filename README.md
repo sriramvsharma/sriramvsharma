@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on: non-profit work, explanatory works, technical documentation, and interactive storytelling. 
 - 🤔 I’m looking for help with: job hunting. Know anyone who needs a front end developer and writer? Check out [my portfolio](https://sriramvsharma.github.io/portfolio/index.html): 
 - 💬 Ask me about: Data visualisation, website development, technical writing, editing, content stategy, and more. 
-- 📫 How to reach me: Twitter: @SriramVSharma
+- 📫 How to reach me: Twitter: [@SriramVSharma](http://twitter.com/sriramvsharma)
 - 😄 Pronouns: He/Him
 
 

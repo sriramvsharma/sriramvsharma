@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a full stack certification at FreeCodeCamp. 
 - 🌱 I’m currently learning D3.js, React, Node.js, JavaScript, and more. 
 - 👯 I’m looking to collaborate on: non-profit work, explanatory works, technical documentation, and interactive storytelling. 
-- 🤔 I’m looking for help with: job hunting. Know anyone who needs a front end developer and writer? Check out [my portfolio](https://sriramvsharma.github.io/portfolio/index.html): 
+- 🤔 I’m looking for help with: job hunting. Know anyone who needs a front end developer and online editor/writer? Check out [my portfolio](https://sriramvsharma.github.io/portfolio/index.html): 
 - 💬 Ask me about: Web development, technical writing, editing, content stategy, online learning, and journalism. 
 - 📫 How to reach me: Twitter: [@SriramVSharma](http://twitter.com/sriramvsharma)
 - 😄 Pronouns: He/Him

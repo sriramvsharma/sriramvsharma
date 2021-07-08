@@ -5,9 +5,6 @@
 - 👯 I’m looking to collaborate on: non-profit work, explanatory works, technical documentation, and interactive storytelling. 
 - 💬 Ask me about: Web development, technical writing, editing, content stategy, online learning, and journalism. 
 - 📫 How to reach me: Twitter: [@SriramVSharma](http://twitter.com/sriramvsharma)
-- 😄 Pronouns: He/Him
-
-
 <!--
 **sriramvsharma/sriramvsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

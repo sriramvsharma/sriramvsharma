@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm a writer and web developer. I love to spark minds, make pixels dance, and spin a good yarn.     
+- I'm a writer and web developer.      
 - 🔭 I just completed BCIT's FWD (Front-End Web Developer) Program. I've completed four 300-hour certifications at Free Code Camp, and gleaned front-end dev skills from MOOCs, bootcamps and hackathons prior to that. 
 - 🌱 I’m currently learning UX & Web Design, D3.js, React, Node.js, JavaScript, SASS/SCSS, PHP, and UI prototyping tools (Adobe XD, Figma, Invision, Balsamiq). 
 - 👯 I’m looking to collaborate on: non-profit work, explanatory works, technical documentation, and interactive storytelling. 
